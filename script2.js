@@ -2,7 +2,7 @@
 console.log("im second file")  new file added
 console.log("conflict trigger - 1");
 
-console.log("im github file")
+console.log("conflict trigger -2");
 
 // helllo im js
 
