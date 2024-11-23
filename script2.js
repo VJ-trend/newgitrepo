@@ -1,6 +1,6 @@
 console.log("im second file")  is added
 
-console.log("im github file")
+console.log("conflict trigger -2");
 
 // helllo im js
 
